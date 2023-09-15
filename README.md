@@ -12,11 +12,11 @@
 
 ## Description
 
-The purpose of this project is to create a text editor using PWA. In the process of completing this challenge, I learned how to create a service worker and how to build out webpack.config.js with having to set up various plugins (HtmlWebpackPlugin, InjectManifest, WebpackPwaManifest) and modules such as babel-loader.
+The purpose of this project is to create a text editor using PWA. In the process of completing this challenge, I learned how to install a service worker and how to build out webpack.config.js creating various plugins (HtmlWebpackPlugin, InjectManifest, WebpackPwaManifest) and modules such as babel-loader.
 
 ## Installation 
 
-Open in VS code or a similiar program. Type npm install, then npm run build, then npm run start: dev, and finally open a webpage on localhost:3000 to view it from a local computer. Otherwise, look at the deployed provdied in the link below. 
+Open in VS code or a similiar program. Type npm install, then npm run build, then npm run start: dev, and finally open a webpage on localhost:3000 to view it from a local computer. Otherwise, look at the deployed provided in the link below. 
 
 ## License
 
