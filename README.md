@@ -29,4 +29,4 @@ Big thanks to the mini-project related to this challange!
 
 ## Deployed
 
-[Heroku](https://drive.google.com/file/d/1UFJrKogc0WXpwWDTLDsKsHe57kCHZEFh/view)
+[Heroku](https://pwa-funtime-d69ba0512fe5.herokuapp.com/)
